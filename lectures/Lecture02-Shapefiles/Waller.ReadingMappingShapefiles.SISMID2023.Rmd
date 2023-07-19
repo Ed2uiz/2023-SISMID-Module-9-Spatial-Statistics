@@ -3,8 +3,8 @@ title: 'Waller SISMID 2023 Reading and Mapping Shapefiles:  Alcohol, Drugs, and 
 author: "Lance A. Waller"
 date: "7/18/2023"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}

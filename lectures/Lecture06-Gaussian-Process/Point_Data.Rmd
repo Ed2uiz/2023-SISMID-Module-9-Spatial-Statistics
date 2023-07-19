@@ -11,8 +11,7 @@ output: html_document
 
 Specify working directory and load R data file. 
 ```{r}
-setwd ("Y:/Teaching/Bios737 Spatial Analysis/Lectures/SISMID Labs/P6")
-load ("dat_krig.RData")
+load ("/Users/user/Documents/2023-SISMID-Module-9-Spatial-Statistics/data/dat_krig.RData")
 ```
 
 ***

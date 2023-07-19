@@ -41,7 +41,6 @@ identical(substring(ID, 2, 10), substring(as.character(nydata$AREAKEY), 2, 10))
 nyadjlw <- mat2listw(nyadjmat, as.character(nydata$AREAKEY))
 listw_NY <- nb2listw(nyadjlw$neighbours, style="B")
 
-
 ```
 
 Now let's calculate the overall rate (total number of cases over total population size).
